@@ -1,4 +1,3 @@
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H6VK9N)
 
 # HTAccess Manager
 
@@ -46,3 +45,5 @@ This software is pretty simple to install.
 - 📱 Responsive lightweight design
 - ☕ Online updates checker
 - 😍 Built with Emoji!
+- Separate classes from panel
+- Non admin user can view panel and modify own password only
