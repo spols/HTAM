@@ -75,7 +75,6 @@ if ($s == 'users' && isset($_GET['a']) && $_GET['a'] == 1) $a = 1;//add exceptio
 
 <header>
 	<h1>HTAccess Manager</h1>
-	<h2><a href="/admin/">Go back to admin site</a></h2>
 	<small><strong>Current directory:</strong> <?=$htam->dir();?> <?=$htam->icon();?></small>
 </header>
 
